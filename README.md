@@ -121,7 +121,9 @@ This project is licensed under the **[No License Specified]** - please check the
 If you encounter any issues or have questions, please use the GitHub Issues page:
 -   🐛 Issues: [GitHub Issues](https://github.com/126425423-coder/Tetris_Remake_C/issues)
 
+
 The project is written in procedural C-style code and compiled as C++ due to the use of the .cpp extension and MSVC toolchain.
+
 ---
 
 <div align="center">
