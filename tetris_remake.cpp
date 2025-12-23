@@ -330,7 +330,7 @@ void RestartGame()
     // Spawn current piece
     spawnPiece();
 	UpdateGhost();
-
+    
     // Reset lock-delay mechanics
     touchingGround = 0;
     groundStart = 0;
