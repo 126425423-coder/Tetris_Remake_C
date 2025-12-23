@@ -30,7 +30,6 @@ This project is a direct remake of the iconic Tetris game, built entirely in C++
 ## 🖥️ Screenshots
 
 <!-- TODO: Add actual screenshots of the console game in action. -->
-*Screenshot showcasing in-game action*
 <img width="625" height="750" alt="Tetris_Remake_efeccypn08" src="https://github.com/user-attachments/assets/fe9488b1-2e84-464f-a28d-c4b65705e5e7" />
 <img width="625" height="750" alt="Tetris_Remake_QD8GPxmJJk" src="https://github.com/user-attachments/assets/1f3f14c1-c308-4c0a-8a5c-8e8e007bdc92" />
 <img width="625" height="750" alt="Tetris_Remake_Wg1kSOs15a" src="https://github.com/user-attachments/assets/5188cdf1-ca44-4a6f-82be-77dc75c4487c" />
