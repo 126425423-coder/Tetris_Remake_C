@@ -180,7 +180,6 @@ int CheckCollision(int newX, int newY)
     return 0; // No collision
 }
 
-// ADD THIS NEW FUNCTION (after CheckCollision):
 int CheckGhostCollision(int newX, int newY)
 {
     for (int r = 0; r < 4; r++) {
