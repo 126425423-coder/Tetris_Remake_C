@@ -87,7 +87,6 @@ Once the game is running in your console, use the following keyboard controls:
 | `Up Arrow`    | Rotate piece      |
 | `Down Arrow`  | Soft drop (speed up fall) |
 | `Spacebar`    | Hard drop (instant fall) |
-| `Q` / `Esc`   | Quit game         |
 
 ## 📁 Project Structure
 
