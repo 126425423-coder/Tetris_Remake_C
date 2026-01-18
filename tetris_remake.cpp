@@ -662,7 +662,7 @@ int main(int argc, char* argv[]) {
         // ---------- Controls ----------
         char controlsText[128];
         snprintf(controlsText, sizeof(controlsText),
-            "Controls:\n-a d- move\n-w- rotate\n-s- soft drop\n-space- hard drop\n-c- hold\n-p- pause\n-r- restart");
+            "Controls:\n-a d- move\n-w- rotate\n-s- soft drop\n-space- hard drop\n-c- hold");
 
         SDL_Surface* surfControls = TTF_RenderText_Blended_Wrapped(font, controlsText, white, 150);
         if (surfControls) {
@@ -670,7 +670,7 @@ int main(int argc, char* argv[]) {
 
             SDL_Rect rectControls = {
                 SIDEBAR_X,
-                WINDOW_HEIGHT - surfControls->h - 40,
+                WINDOW_HEIGHT - surfControls->h - 10,
                 surfControls->w,
                 surfControls->h
             };
